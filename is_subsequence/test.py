@@ -1,5 +1,5 @@
 import unittest
-from solution import is_subsequence
+from is_subsequence.solution import is_subsequence
 
 
 class IsSubsequenceTest(unittest.TestCase):

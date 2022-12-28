@@ -1,6 +1,6 @@
 import unittest
 
-from solution import is_isomorphic
+from isomorphic_string.solution import is_isomorphic
 
 
 class IsIsomorphicTest(unittest.TestCase):

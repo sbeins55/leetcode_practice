@@ -1,6 +1,6 @@
 import unittest
 
-from solution import running_sum
+from running_sum.solution import running_sum
 
 
 class RunningSumTest(unittest.TestCase):

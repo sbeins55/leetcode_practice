@@ -1,6 +1,6 @@
 import unittest
 
-from solution import pivot_index
+from pivot_index.solution import pivot_index
 
 
 class RunningSumTest(unittest.TestCase):

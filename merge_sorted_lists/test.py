@@ -2,7 +2,7 @@ import unittest
 
 from data_structures.classes import ListNode
 from helpers.utils import linked_list_to_list
-from solution import merge_sorted_lists
+from merge_sorted_lists.solution import merge_sorted_lists
 
 
 class MergedSortedListsTest(unittest.TestCase):
